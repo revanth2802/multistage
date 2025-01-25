@@ -59,10 +59,7 @@ To get started with this project, follow these steps:
 - **Frontend**: [https://multiformstage-frontend.vercel.app](https://multiformstage-frontend.vercel.app)
 - **Backend**: [https://multistaged-form-backend.vercel.app](https://multistaged-form-backend.vercel.app)
 
-## Repositories
 
-- **Frontend Repository**: [https://github.com/md-galib-hossain/multiformstage-frontend](https://github.com/md-galib-hossain/multiformstage-frontend)
-- **Backend Repository**: [https://github.com/md-galib-hossain/multiformstage-backend](https://github.com/md-galib-hossain/multiformstage-backend)
 
 ## Technologies Used
 
